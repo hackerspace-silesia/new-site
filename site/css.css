@@ -1,0 +1,96 @@
+body {
+    color: #181818;
+    font-size: 14pt;
+    font-family: 'Arimo', sans-serif;
+}
+#main {
+    width: 900px;
+    margin: auto;
+}
+#left, #right {
+    width: 424px;
+    float: left;
+    margin-top: 80px;
+}
+p {
+    text-align: justify;
+}
+
+.center {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 16pt;
+    margin: 10px;
+}
+
+#left {
+    border-right: solid 1px #C0C0C0;
+    padding-right: 25px;
+}
+
+#right {
+    padding-left: 25px;
+}
+
+h2, h1 {
+    width: 100%;
+    text-align: center;
+    letter-spacing: 4pt;
+}
+
+h2 > small {
+    font-size: 10pt;
+    letter-spacing: 0pt;
+    float: right;
+}
+
+h1.img {
+    color: white;
+    width: 400px;
+    margin: auto;
+    height: 60px;
+}
+
+#contact-icons .fa {
+    border-radius: 50%;
+    color: white;
+    width: 51px;
+    height: 44px;
+    padding-top: 7px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:link { color: #1b92d0; }
+a:visited { color: #8e23a9; }
+a:hover { color: #66bdea; }
+a:active { color: #8bd7ff; }
+
+#contact-icons a.fa:link { background-color: #1b92d0; }
+#contact-icons a.fa:hover { background-color: #66bdea; }
+#contact-icons a.fa:active { background-color: #8bd7ff; }
+
+#contact-icons > li {
+    width: 20%;
+    display: block;
+    float: left;
+}
+
+@media screen and (max-width: 1377px) {
+    #left, #right { margin-top: 40px; }
+}
+
+@media screen and (max-width: 900px) {
+    #main { width: 400px  }
+    #left, #right { width: 100%; margin-top: 10px; margin: 0px; }
+    #left { border: none; }
+}
+
+@media screen and (max-width: 600px) {
+    #main { width: 100%; }
+    #logo { width: 100%; } 
+    #left, #right { width: 100%; margin: 0px; padding: 0px; }
+    #left { border: none; }
+    .not-small { display: none; }
+}
