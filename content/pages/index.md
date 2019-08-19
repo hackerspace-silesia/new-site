@@ -1,5 +1,10 @@
-#!! LEFT
-## O nas
+Title: O nas
+Date: 2017-08-09
+Lang: pl
+URL:
+Save_as: index.html
+
+![logo](images/logo-big.png)
 
 **Hackerspace** to społeczność kreatywnych ludzi z różnych obszarów zainteresowań,
 związanych z technologiami, którzy spotykają się w miejscu, gdzie mogą tworzyć,
@@ -13,28 +18,14 @@ Każdego, kto chce dołączyć do naszej radosnej drużyny i zostać
 członkiem Hackerspace-u zachęcamy do wypełnienia
 deklaracji członkowskiej i dostarczenia jej do nas. 
 
-!center! [Deklaracja członkowska](#)
 
-!center! [Cykliczne spotkania](events.html)
+## Miejsce
 
-## Kontakt
+Można nas znaleźć przy **ul. Ondraszka 17** w Katowicach.
 
-* E-mail do zarządu [info@hs-silesia.pl](mailto:info@hs-silesia.pl)
-* [Grupa dyskusyjna](https://lists.hs-silesia.pl/archives/open/)
+Każdy czwartek jest „dniem otwartym”, na który możesz przyjść,
+porozmawiać i zobaczyć naszą siedzibę.
+Staramy się, żeby mniej więcej od godziny 18.00 ktoś z nas
+czekał na zainteresowanych.
 
-!include-html:contact-icons.html!
-
-#!! RIGHT
-
-!include-md:map.md!
-
-!center! [Wskazówki dojazdu](place.html)
-
-## Linki
-
-* [HS Wiki](https://wiki.hs-silesia.pl/)
-* [Planowane spotkania](https://wiki.hs-silesia.pl/wiki/Planowane_spotkania)
-* [Projekty](projects.html)
-* [Nasze Spotkania](meets.html)
-* [Finanse](http://finanse.hs-silesia.pl/)
-
+Więcej [tutaj](pages/place.html)

@@ -1,13 +1,22 @@
-#!! LEFT
-!include-md:map.md!
+Title: Miejsce
+Date: 2018-08-09
+Slug: place
+Lang: pl
+
+Można nas znaleźć przy **ul. Ondraszka 17** w Katowicach.
+
+Każdy czwartek jest „dniem otwartym”, na który możesz przyjść,
+porozmawiać i zobaczyć naszą siedzibę.
+Staramy się, żeby mniej więcej od godziny 18.00 ktoś z nas
+czekał na zainteresowanych.
+
+{% include '_map.html' %}
 
 ## Jak wejść?
 
 Wejście znajduje się z **tyłu** bloku Ondraszka 17. Idąc od strony ul. Gliwickiej kieruj się na lewo – zaraz za rogiem budynku jest wejście do naszego lokalu (wejdź po schodkach).
 
 ![ondraszka-wejscie](https://hs-silesia.pl/wp-content/uploads/2015/02/ondraszka-wejscie-300x248.png)
-
-#!! RIGHT
 
 ## Jak dojechać?
 
@@ -23,5 +32,3 @@ aktualne rozkłady jazdy znajdziesz na stronie KZK GOP lub Jak dojadę
 Ondraszka 17 to blok mieszkalny; w pobliżu znajdują się miejsca parkingowe.
 Aktualnie nie mamy stojaków na rowery, ale możesz go wprowadzić do środka
 — w lokalu mamy dość obszerny korytarz.
-
-!center! [powrót](index.html)
