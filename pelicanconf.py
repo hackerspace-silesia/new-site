@@ -31,7 +31,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-PLUGINS = ['jinja2content', 'footer_insert']
+PLUGINS = ['jinja2content']
 JINJA2CONTENT_TEMPLATES = ['../templates']
 STATIC_PATHS = ['extra', 'images']
 
