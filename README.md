@@ -7,6 +7,7 @@
 git submodule update --init
 pip install -r requirements.txt
 pelican content  # tada - your content is on 
+make html  # works too
 ```
 
 ## What is editable?
@@ -22,7 +23,7 @@ pelican content  # tada - your content is on
 ## Dev mode
 
 ```
-pelican listen
+pelican --listen
 ```
 
 This command create a devserver on localhost:8000
