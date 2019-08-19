@@ -7,7 +7,7 @@ SITENAME = 'Hackerspace Silesia'
 SITEURL = ''
 
 PATH = 'content'
-THEME = '../Flex'
+THEME = 'Flex'
 
 TIMEZONE = 'Europe/Warsaw'
 PAGE_ORDER_BY = 'date'

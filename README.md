@@ -4,6 +4,7 @@
 
 ```bash
 # venv or sth (python mastah)
+git submodule update --init
 pip install -r requirements.txt
 pelican content  # tada - your content is on 
 ```
