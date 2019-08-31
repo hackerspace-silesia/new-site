@@ -17,6 +17,11 @@ DEFAULT_LANG = 'pl'
 SITELOGO = '/images/logo.png'
 FAVICON = '/images/favicon.ico'
 
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_LANG_URL = '{slug}-{lang}/'
+PAGE_LANG_SAVE_AS = '{slug}-{lang}/index.html'
+
 COPYRIGHT_NAME = '''
 <a href="https://hs-silesia.pl">hs-silesia</a> team 2019.
 Hosted on <a href="http://www.vultr.com/?ref=6819909">vultr</a>

@@ -17,7 +17,7 @@ Lang: pl
 !!! danger ""
     Jest to tylko adres korespodencyjny! 
     Nasz lokal znajduje się gdzieś indziej.
-    Jeżeli jesteś zainteresowany by nas odwiedzić, to wejdź w ten [link](place.html)
+    Jeżeli jesteś zainteresowany by nas odwiedzić, to wejdź w ten [link](/place/)
 
 Stowarzyszenie Hackerspace Silesia
 

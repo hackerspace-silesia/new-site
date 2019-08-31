@@ -4,7 +4,7 @@ Lang: pl
 URL:
 Save_as: index.html
 
-![logo](images/logo-big.png)
+![logo](/images/logo-big.png)
 
 **Hackerspace** to społeczność kreatywnych ludzi z różnych obszarów zainteresowań,
 związanych z technologiami, którzy spotykają się w miejscu, gdzie mogą tworzyć,
@@ -27,4 +27,4 @@ porozmawiać i zobaczyć naszą siedzibę.
 Staramy się, żeby mniej więcej od godziny 18.00 ktoś z nas
 czekał na zainteresowanych.
 
-Więcej [tutaj](pages/place.html)
+Więcej [tutaj](/place/)
