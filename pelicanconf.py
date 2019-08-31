@@ -68,3 +68,6 @@ MARKDOWN = {
   'output_format': 'html5',
 }
 CUSTOM_CSS = 'extra/custom.css'
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
