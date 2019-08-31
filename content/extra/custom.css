@@ -26,7 +26,7 @@ main a:active { color: #8bd7ff; }
 
 .cell {
     float: left;
-    width: 33%;
+    width: 100%;
 }
 
 .admonition.danger {
@@ -37,6 +37,9 @@ main a:active { color: #8bd7ff; }
 }
 
 @media screen and (min-width: 768px) {
+    .cell {
+        width: 50%;
+    }
     ul.list li {
         text-align: left;
         margin-left: 20%;
@@ -52,5 +55,11 @@ main a:active { color: #8bd7ff; }
         text-align: left;
         margin-left: 20%;
     }
+}
 
+
+@media screen and (min-width: 1200px) {
+    .cell {
+        width: 33%;
+    }
 }
