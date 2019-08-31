@@ -14,8 +14,15 @@ Lang: pl
 
 ## Adres korespondencyjny
 
+!!! danger ""
+    Jest to tylko adres korespodencyjny! 
+    Nasz lokal znajduje się gdzieś indziej.
+    Jeżeli jesteś zainteresowany by nas odwiedzić, to wejdź w ten [link](place.html)
+
 Stowarzyszenie Hackerspace Silesia
 
 ul. Młyńska 5
 
 40-098, Katowice
+
+    

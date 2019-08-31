@@ -18,7 +18,6 @@ Każdego, kto chce dołączyć do naszej radosnej drużyny i zostać
 członkiem Hackerspace-u zachęcamy do wypełnienia
 deklaracji członkowskiej i dostarczenia jej do nas. 
 
-
 ## Miejsce
 
 Można nas znaleźć przy **ul. Ondraszka 17** w Katowicach.

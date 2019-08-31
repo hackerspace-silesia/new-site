@@ -54,8 +54,8 @@ DEFAULT_PAGINATION = False
 
 MARKDOWN = {
   'extension_configs': {
-    'markdown.extensions.toc': {
-    },
+    'markdown.extensions.toc': {},
+    'markdown.extensions.admonition': {},
     'markdown.extensions.codehilite': {'css_class': 'highlight'},
     'markdown.extensions.extra': {},
     'markdown.extensions.meta': {},

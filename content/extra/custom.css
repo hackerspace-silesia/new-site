@@ -21,9 +21,20 @@ header p { display: none; }
 
 main a { color: #1b92d0; }
 main a:link { color: #1b92d0; }
-main a:visited { color: #8e23a9; }
 main a:hover { color: #66bdea; }
 main a:active { color: #8bd7ff; }
+
+.cell {
+    float: left;
+    width: 33%;
+}
+
+.admonition.danger {
+    border-radius: 5px;
+    background-color: #ef9f5c; 
+    color: white;
+    padding: 0.2em 1em;
+}
 
 @media screen and (min-width: 768px) {
     ul.list li {
