@@ -69,5 +69,5 @@ MARKDOWN = {
 }
 CUSTOM_CSS = 'extra/custom.css'
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'images/favicon.ico': {'path': 'favicon.ico'},
 }

@@ -16,7 +16,7 @@ czekał na zainteresowanych.
 
 Wejście znajduje się z **tyłu** bloku Ondraszka 17. Idąc od strony ul. Gliwickiej kieruj się na lewo – zaraz za rogiem budynku jest wejście do naszego lokalu (wejdź po schodkach).
 
-![ondraszka-wejscie](https://hs-silesia.pl/wp-content/uploads/2015/02/ondraszka-wejscie-300x248.png)
+![ondraszka-wejscie](/images/ondraszka-wejscie.png)
 
 ## Jak dojechać?
 
