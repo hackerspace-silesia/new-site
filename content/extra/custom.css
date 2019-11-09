@@ -36,6 +36,18 @@ main a:active { color: #8bd7ff; }
     padding: 0.2em 1em;
 }
 
+.admonition.info {
+    border-radius: 5px;
+    background-color: #1b92d0; 
+    color: white;
+    padding: 0.2em 1em;
+}
+
+.admonition.info a { color: #ef9f5c; }
+.admonition.info a:link { color: #ef9f5c; }
+.admonition.info a:hover { color: #ffb87d; }
+.admonition.info a:active { color: #ffe3cc; }
+
 @media screen and (min-width: 768px) {
     .cell {
         width: 50%;
