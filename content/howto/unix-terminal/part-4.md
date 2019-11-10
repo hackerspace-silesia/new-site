@@ -1,4 +1,4 @@
-Title: HOWTO Unix Terminal (Część pierwsza)
+Title: HOWTO Unix Terminal (Część czwarta)
 Date: 2019-08-19
 Slug: howto/unix-terminal/part-4
 Lang: pl
