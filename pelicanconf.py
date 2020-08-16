@@ -29,7 +29,7 @@ ARTICLE_LANG_SAVE_AS = '{slug}-{lang}/index.html'
 
 COPYRIGHT_NAME = '''
 <a href="https://hs-silesia.pl">hs-silesia</a> team 2019.
-Hosted on <a href="http://www.vultr.com/?ref=6819909">vultr</a>
+Hosted on <a href="http://www.vultr.com/?ref=6819909"><img alt="vultr" src="/images/vultr.png" /></a>
 '''
 
 HOME_HIDE_TAGS = True
