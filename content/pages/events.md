@@ -10,6 +10,13 @@ Lang: pl
 </div>
 
 <div class="cell" markdown="1">
+## HS Talks
+
+* [HS Talks #1](/events/hs_talks/1)
+
+</div>
+
+<div class="cell" markdown="1">
 ## Malinowy Dżemik
 </div>
 
