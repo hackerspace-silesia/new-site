@@ -1,4 +1,4 @@
-Title: Nasze wydarzenia
+Title: HS Talks #1
 Date: 2021-10-01
 Slug: events/hs_talks/1
 Lang: pl
