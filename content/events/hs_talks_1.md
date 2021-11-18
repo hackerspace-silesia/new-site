@@ -28,5 +28,7 @@ Spotykamy się w Hackerspace Silesia na Ondraszka 17 o 18:00 - 21 października.
 Wstęp bezpłatny!
 
 [Link do wydarzenia na Meetup](https://www.meetup.com/Hackerspace-Silesia/events/281102887/)
+
 [Link do wydarzenia na LinkedIn](https://www.linkedin.com/events/hstalks-16850008218270273536/)
+
 [Link do wydarzenia na Facebook](https://www.facebook.com/events/419112679649783?ref=newsfeed)
