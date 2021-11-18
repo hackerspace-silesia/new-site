@@ -1,9 +1,8 @@
 Title: HS Talks #1
-Date: 2021-10-01
+Date: 2021-10-21
 Slug: events/hs_talks/1
 Lang: pl
 
-# HS Talks #1
 ![hs-talks-1](/images/hs_talks/hs_talks_1.png)
 
 Po wielu miesiącach długiej pandemii zapraszamy na pierwszą edycje HS Talks w ramach reboot-u Hackerspace Silesia.
@@ -28,7 +27,6 @@ Spotykamy się w Hackerspace Silesia na Ondraszka 17 o 18:00 - 21 października.
 
 Wstęp bezpłatny!
 
-[Link do wydarzenia na Meetup](https://lists.hs-silesia.pl/listinfo/open)
-
-
-[Link do wydarzenia na Facebook](https://lists.hs-silesia.pl/listinfo/open)
+[Link do wydarzenia na Meetup](https://www.meetup.com/Hackerspace-Silesia/events/281102887/)
+[Link do wydarzenia na LinkedIn](https://www.linkedin.com/events/hstalks-16850008218270273536/)
+[Link do wydarzenia na Facebook](https://www.facebook.com/events/419112679649783?ref=newsfeed)

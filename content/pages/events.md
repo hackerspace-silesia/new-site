@@ -13,6 +13,7 @@ Lang: pl
 ## HS Talks
 
 * [HS Talks #1](/events/hs_talks/1)
+* [HS Talks #2](/events/hs_talks/2)
 
 </div>
 
