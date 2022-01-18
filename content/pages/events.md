@@ -18,6 +18,13 @@ Lang: pl
 </div>
 
 <div class="cell" markdown="1">
+## Hack Security
+
+* [Hack Security #1](/events/hack_security/1)
+
+</div>
+
+<div class="cell" markdown="1">
 ## Malinowy Dżemik
 </div>
 
