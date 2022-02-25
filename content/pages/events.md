@@ -25,7 +25,7 @@ Lang: pl
 </div>
 
 <div class="cell" markdown="1">
-## Hack Security
+## Hack Night
 
 * [Hack Night #1](/events/hack_night/1)
 
