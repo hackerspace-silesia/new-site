@@ -1,5 +1,5 @@
 Title: Hack Security #2
-Date: 2022-03-30
+Date: 2022-03-29
 Slug: events/hack_security/2
 Lang: pl
 
@@ -21,7 +21,7 @@ Link do zapisów: [https://www.meetup.com/Hackerspace-Silesia/events/284625496/]
 
 Ilość miejsc ograniczona do 20 osób
 
-Spotykamy się w Hackerspace Silesia na Ondraszka 17 o 18:00 - 30 marca 2022. Opis jak dotrzeć do naszej siedziby jest dostępny tutaj: [https://hs-silesia.pl/place/#place](https://hs-silesia.pl/place/#place)
+Spotykamy się w Hackerspace Silesia na Ondraszka 17 o 18:00 - 29 marca 2022. Opis jak dotrzeć do naszej siedziby jest dostępny tutaj: [https://hs-silesia.pl/place/#place](https://hs-silesia.pl/place/#place)
 
 Wstęp bezpłatny!
 
