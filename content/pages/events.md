@@ -21,6 +21,7 @@ Lang: pl
 ## Hack Security
 
 * [Hack Security #1](/events/hack_security/1)
+* [Hack Security #2](/events/hack_security/2)
 
 </div>
 
