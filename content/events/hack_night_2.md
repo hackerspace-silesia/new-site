@@ -11,6 +11,7 @@ Sami będziemy bawili się drukiem 3D, czy kontrybuowali do projektów open sour
 
 !!! info ""
     19:00 - Rozpoczęcie
+
     Zakończenie do ostatniej osoby w Hackerspace
     
 
@@ -19,5 +20,7 @@ Spotykamy się w Hackerspace Silesia na Ondraszka 17 o 19:00 - 22 kwietnia 2022.
 Wstęp bezpłatny!
 
 [Link do wydarzenia na Facebook](https://www.facebook.com/events/366673998547099)
+
 [Link do wydarzenia na Meetup](https://www.meetup.com/Hackerspace-Silesia/events/285266305/)
+
 [Link do wydarzenia na LinkedIn](https://www.linkedin.com/events/6920241777492774912/about/)
