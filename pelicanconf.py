@@ -35,7 +35,8 @@ Hosted on <a href="http://www.vultr.com/?ref=6819909"><img alt="vultr" src="/ima
 HOME_HIDE_TAGS = True
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = "feeds/atom.xml"
+FEED_ALL_RSS = "feeds/rss.xml"
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
