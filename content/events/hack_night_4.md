@@ -19,8 +19,8 @@ Spotykamy się w Hackerspace Silesia na Ondraszka 17 o 19:00 - 20 maja 2022. Opi
 
 Wstęp bezpłatny!
 
-[Link do wydarzenia na Facebook](https://www.facebook.com/events/3309150599328048)
+[Link do wydarzenia na Facebook](https://www.facebook.com/events/389495989763929/)
 
 [Link do wydarzenia na Meetup](https://www.meetup.com/Hackerspace-Silesia/events/285937175/)
 
-[Link do wydarzenia na LinkedIn](https://www.linkedin.com/events/hacknight-36926408211587563520/about/)
+[Link do wydarzenia na LinkedIn](https://www.linkedin.com/events/hacknight-46931822514692059137/about/)
