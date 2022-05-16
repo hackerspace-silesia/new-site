@@ -1,4 +1,4 @@
-Title: Hack Night #3
+Title: Hack Night #4
 Date: 2022-05-20
 Slug: events/hack_night/4
 Lang: pl
