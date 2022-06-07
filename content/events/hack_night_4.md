@@ -5,7 +5,7 @@ Lang: pl
 
 ![hack-night-4](/images/hack_night/hack_night_4.png)
 
-W piątek 20 maja kwietnia zapraszamy na nasz kolejny Hack Night. Jest otwarta noc w Hackerspace Silesia. Każdy kto chce nas poznać czy skorzystać z naszego wyposażenia, zrobić własny projekt ma całą przestrzeń dostępną do działania.
+W piątek 20 maja zapraszamy na nasz kolejny Hack Night. Jest otwarta noc w Hackerspace Silesia. Każdy kto chce nas poznać czy skorzystać z naszego wyposażenia, zrobić własny projekt ma całą przestrzeń dostępną do działania.
 
 Sami będziemy robili projekt w Golangu czy rozmawiali na temat zbudowania projektu komunikacji między zwierzętami a ludźmi, a inni będą kontrybuowali do projektów open source czy bawili się drukiem 3d.
 
