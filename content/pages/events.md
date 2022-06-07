@@ -32,6 +32,7 @@ Lang: pl
 * [Hack Night #2](/events/hack_night/2)
 * [Hack Night #3](/events/hack_night/3)
 * [Hack Night #4](/events/hack_night/4)
+* [Hack Night #5](/events/hack_night/5)
 
 </div>
 
